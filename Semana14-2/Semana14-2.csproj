@@ -68,7 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="default.aspx" />
-    <Content Include="img\favicon.ico.ico" />
+    <Content Include="img\favicon.ico" />
     <Content Include="js\functions.js" />
     <Content Include="img\styles.css" />
     <Content Include="Web.config" />
