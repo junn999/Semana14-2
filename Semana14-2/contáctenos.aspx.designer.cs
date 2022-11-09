@@ -11,7 +11,7 @@ namespace Semana14_2
 {
 
 
-    public partial class _default
+    public partial class contactenos
     {
     }
 }

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Semana14_2._default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="contáctenos.aspx.cs" Inherits="Semana14_2.contactenos" %>
 
 <!DOCTYPE html>
 
@@ -6,8 +6,8 @@
     <head runat="server">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <link rel="shurcut icon" href ="img/favicon.ico.ico"/>
-        <title>Inicio</title>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <title>Contáctenos</title>
+
         <link rel="stylesheet" href ="img/styles.css" />
         
     </head>
@@ -20,3 +20,4 @@
         <script src="js/functions.js" type="text/javascript"> </script>
     </body>
 </html>
+
