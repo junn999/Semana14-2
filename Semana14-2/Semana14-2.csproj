@@ -70,6 +70,7 @@
     <Content Include="contáctenos.aspx" />
     <Content Include="default.aspx" />
     <Content Include="img\favicon.ico" />
+    <Content Include="img\sunflower-4641930.jpg" />
     <Content Include="información.html" />
     <Content Include="js\functions.js" />
     <Content Include="img\styles.css" />
